@@ -16,8 +16,8 @@ Python, Numpy, SKlearn, SQL, MatPlotLib, pandas, docker.
 | Название | Кол-во проектов |
 | :-| :------------ |
 | [Small CV Projects](https://github.com/Vdol22/Small-CV-projects) | 8 |
-| [Advanced CV Projects]([https://github.com/Vdol22/Small-CV-projects](https://github.com/Vdol22/Advanced-CV-Projects)) | 2 |
-| [Yandex Practicum DS Projects]([https://github.com/Vdol22/Small-CV-projects](https://github.com/Vdol22/Yandex-Practicum-Data-Science)) | 14 |
+| [Advanced CV Projects](https://github.com/Vdol22/Advanced-CV-Projects) | 2 |
+| [Yandex Practicum DS Projects](https://github.com/Vdol22/Yandex-Practicum-Data-Science) | 14 |
 
 
 
